@@ -1,6 +1,9 @@
-## Erick Garcia, Economics Major and Digital Data Studies Minor 👋
+## Erick Garcia, Economics BA and Digital Data Studies Minor 📊
+
 
 <!--
+
+I am a student 
 **erick-garc1a/erick-garc1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
