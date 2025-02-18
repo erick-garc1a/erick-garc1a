@@ -12,3 +12,7 @@ How to reach me:
 * Email: erickagnyc@gmail.com
 * LinkdIn: [erick-garc1a](https://www.linkedin.com/in/erick-garc1a/)
 
+<!-- 
+https://www.binghamton.edu/harpur/degrees/digital-data/minor/index.html link for relevant coursework 
+include relevant coursework into this github thing 
+
