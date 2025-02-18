@@ -1,4 +1,4 @@
-## Hi there 👋
+## Erick Garcia, Economics Major and Digital Data Studies Minor 👋
 
 <!--
 **erick-garc1a/erick-garc1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
