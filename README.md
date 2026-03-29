@@ -1,8 +1,8 @@
-## Erick Garcia, Economics BA and Digital Data Studies Minor 📊
+## Erick Garcia, Economics BA and Data Analytics Minor 📊
 
-Hi, I'm Erick Garcia, an aspiring financial analyst with a strong background in data analysis, economics, and programming. I'm a graduate of Binghamton University with a degree in Economics and a minor in Digital Data Studies, passionate about using data-driven insights to inform smarter financial decision-making. 
+Hi, I’m Erick Garcia, an economics graduate with a background in financial analysis, data analytics, and programming. I’m especially interested in valuation, business performance, and using data to support better financial decision-making.
 
-I have experience working with Python, SQL, and Excel, and I'm currently working on a research project analyzing SEC EDGAR data to uncover key financial indicators that impact company performance. Additionally, I’m involved in FLY (Financial Literacy for the Youth), where I help educate young individuals on financial concepts. 
+My projects often involve Python, SQL, Excel, financial modeling, and SEC EDGAR data analysis. This GitHub is a collection of the work I’m building at the intersection of finance, analytics, and applied problem solving.
 
 Feel free to check out my projects and connect with me! 
 
